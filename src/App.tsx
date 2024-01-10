@@ -35,7 +35,7 @@ function App() {
           {capitalizedDayName}
         </Typography>
         <Typography fontSize={100 * fontSizeFactor}>{partOfDay}</Typography>
-        <Typography fontSize={150 * fontSizeFactor}>{clock}</Typography>
+        <Typography fontSize={190 * fontSizeFactor}>{clock}</Typography>
         <Typography fontSize={50 * fontSizeFactor}>
           {day}. {monthName} {year}
         </Typography>
